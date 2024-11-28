@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <title>Actividad 20</title>
+</head>
+<body>
+    <form>
+        <fieldset>
+            <legend>Datos de acceso</legend>
+            <label for="email">Email:
+                <input type="email" id="email" required><br>
+            </label>
+            <label for="contraseña">Contraseña:
+                <input type="password" id="contraseña" title="la contraseña no se mostrará" required>
+            </label>
+        </fieldset>
+
+        <fieldset>
+            <legend>Datos personales</legend>
+            <label for="archivo">Imagen: Sube una foto
+                <input type="file" id="archivo" required><br>
+            </label>
+            <label for="nombre">Nombre:
+                <input type="text" id="nombre" pattern="[A-Za-z\s]+" required><br>
+            </label>
+            <label for="primer_apellido">Primer apellido:
+                <input type="text" id="primer_apellido" pattern="[A-Za-z\s]+" required><br>
+            </label>
+            <label for="segundo_apellido">Segundo apellido:
+                <input type="text" id="segundo_apellido" pattern="[A-Za-z\s]+" required><br>
+            </label>
+            <label>Sexo:</label>
+            <label for="hombre">Hombre
+                <input type="radio" name="sexo" id="hombre" required>
+            </label>
+            <label for="mujer">Mujer
+                <input type="radio" name="sexo" id="mujer" required>
+            </label>
+            <label for="nodir">Prefiero no decirlo
+                <input type="radio" name="sexo" id="nodir" required><br>
+            </label>
+            <label for="fecha">Fecha de nacimiento:
+                <input type="date" id="fecha" required>
+            </label>
+        
+            <fieldset>
+                <legend>Dirección</legend>
+                <label for="calle">Calle:
+                    <input type="text" id="calle" pattern="[A-Za-z\s]+" required><br>
+                </label>
+                <label for="ciudad">Ciudad:
+                    <input type="text" id="ciudad" pattern="[A-Za-z\s]+" required><br>
+                </label>
+                <label for="pais">País:
+                    <select id="pais" required>
+                        <option value="España">España</option>
+                        <option value="Chile">Chile</option>
+                        <option value="Argentina">Argentina</option>
+                        <option value="Rusia">Rusia</option>
+                        <option value="China">China</option>
+                        <option value="Japón">Japón</option>
+                        <option value="Cuba">Cuba</option>
+                        <option value="Estados Unidos">Estados Unidos</option>
+                        <option value="Reino Unido">Reino Unido</option>
+                        <option value="Alemania">Alemania</option>
+                        <option value="Austria">Austria</option>
+                        <option value="África">África</option>
+                        <option value="Brasil">Brasil</option>
+                        <option value="Portugal">Portugal</option>
+                        <option value="Marruecos">Marruecos</option>
+                        <option value="Turquía">Turquía</option>
+                    </select>
+                </label><br>
+                <label for="numero">Número:
+                    <input type="text" id="numero" required><br>
+                </label>
+                <label for="cp">CP:
+                    <input type="text" id="cp" maxlength="5" pattern="[0-9]{5}" title="El código postal debe contener exactamente 5 dígitos numéricos" required>
+                </label>
+            </fieldset>
+        </fieldset>
+
+        <fieldset>
+            <legend>Personaliza tu web</legend>
+            <label for="fuente">Tamaño de la fuente: 0
+                <input type="range" id="fuente" min="0" max="3" step="0.1" required> 3<br>
+            </label> 
+            <label for="color">Elige el color del fondo
+                <input type="color" id="color" required>
+            </label>
+        </fieldset>
+
+        <fieldset>
+            <legend>Términos y condiciones</legend>
+            <label for="terminos">
+               <input type="checkbox" id="terminos" required> Confirma que ha <b><u>leído y comprendido</u></b> nuestros términos y condiciones<br>
+            </label>
+        </fieldset>
+        <button type="submit">Registrarse</button>
+        <button type="reset">Repetir formulario</button>
+    </form>
+</body>
+</html>
