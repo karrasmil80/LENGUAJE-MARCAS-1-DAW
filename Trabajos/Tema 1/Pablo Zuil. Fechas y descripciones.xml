@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<HECHOS_HISTORICOS>
-    
-   <fecha descripcion_de_cada_hecho="IBM da a conocer el pc" formato="dd/mm/yyyy"> 12/08/1981 </fecha>
-   <fecha descripcion_de_cada_hecho="Se funda Google" formato="dd/mm/yyyy"> 04/09/1998 </fecha>
-   <fecha  descripcion_de_cada_hecho="Se funda Facebook" formato="dd/mm/yyyy"> 04/02/2004 </fecha>
-
-</HECHOS_HISTORICOS>
