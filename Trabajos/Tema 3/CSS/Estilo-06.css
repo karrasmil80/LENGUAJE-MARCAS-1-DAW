@@ -1,0 +1,9 @@
+#Separado {
+    word-spacing: 20px;
+    font-weight: bold;
+}
+
+#Condensado {
+    word-spacing: -4px;
+    font-weight: bold;
+}

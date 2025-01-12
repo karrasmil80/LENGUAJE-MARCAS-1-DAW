@@ -1,0 +1,27 @@
+span.Subrayado {
+    text-decoration: underline;
+}
+
+span.Cursiva {
+    font-style: italic;
+}
+
+span.Negrita {
+    font-weight: bold;
+}
+
+span.Tachado {
+    text-decoration: line-through;
+}
+
+span.Color {
+    color: brown;
+}
+
+span.Color2 {
+    color: yellow;
+}
+
+span.Color3 {
+    color: green;
+}
