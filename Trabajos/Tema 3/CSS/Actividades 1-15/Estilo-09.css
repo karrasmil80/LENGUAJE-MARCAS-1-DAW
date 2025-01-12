@@ -1,0 +1,11 @@
+.arriba {
+    vertical-align: super ;
+}
+
+.abajo{
+    vertical-align: sub;
+}
+
+.normal {
+    vertical-align: baseline;
+}

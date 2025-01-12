@@ -1,0 +1,27 @@
+#circulo {
+    list-style-type: disc;
+}
+#circulo_hueco {
+    list-style-type: circle;
+}
+#cuadrado {
+    list-style-type: square;
+}
+#Decimal_1 {
+    list-style-type: decimal;
+}
+#Decimal_2 {
+    list-style-type: decimal;
+}
+#Romanos_mayus {
+    list-style-type: upper-roman;
+}
+#Romanos_minus {
+    list-style-type: lower-roman;
+}
+#Alfabeto_mayus {
+    list-style-type: upper-alpha;
+}
+#Alfabeto_minus {
+    list-style-type: lower-alpha;
+}
