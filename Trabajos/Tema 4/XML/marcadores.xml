@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<marcadores>
+<marcador>
+    <nombre>Mozilla FireFox</nombre>
+    <descripcion>Motor de búsqueda</descripcion>
+    <url>https://www.mozilla.org</url>
+</marcador>
+<marcador>
+    <nombre>Wikipedia</nombre>
+    <descripcion>Enciclopedia libre</descripcion>
+    <url>https://es.wikipedia.org/</url>
+</marcador>
+<marcador>
+    <nombre>GitHub</nombre>
+    <descripcion>Desarrollo colaborativo</descripcion>
+    <url>https://www.github.com/</url>
+</marcador>
+</marcadores>

@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(235, 235, 44);
+}
+
+.cursiva {
+    font-style: italic;
+    color: rgb(250, 1, 1);
+}
+
+footer {
+    color: rgb(250, 1, 1);
+}
+
+p {
+    color: rgb(161, 94, 7);
+}
+
+h1 {
+    color: blueviolet;
+}

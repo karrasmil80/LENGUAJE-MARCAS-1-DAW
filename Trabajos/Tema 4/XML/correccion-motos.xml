@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--  Corrección motos.xml -->
+<motos>
+<moto>
+    <nombre>Macbor Montana</nombre>
+</moto>
+<moto>
+    <nombre>Guzzi v85 tt</nombre>
+</moto>
+</motos>

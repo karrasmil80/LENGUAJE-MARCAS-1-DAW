@@ -1,0 +1,22 @@
+<?xml-stylesheet href="estilo-pedidos.css" type="text/css"?>
+
+<pedido>
+<cliente>
+    <nombre>Don Pollo</nombre>
+    <direccion>Calle Ohio, 141</direccion>
+</cliente>
+<productos>
+<producto>
+    <nombre>Hamburguesa Smash</nombre>
+    <precio>12.99$</precio>
+</producto>
+<producto cantidad="3">
+    <nombre>Patatas Deluxe</nombre>
+    <precio>0.99$</precio>
+</producto>
+<producto cantidad="2">
+    <nombre>Coca-cola</nombre>
+    <precio>2.99$</precio>
+</producto>
+</productos>    
+</pedido>

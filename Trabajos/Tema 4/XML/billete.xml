@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<billete>
+    <nombre>Jane Doe</nombre>
+    <origen>Madrid</origen>
+    <destino>Valencia</destino>
+    <fecha>2020-11-17</fecha>
+    <hora>15:30</hora>
+</billete>

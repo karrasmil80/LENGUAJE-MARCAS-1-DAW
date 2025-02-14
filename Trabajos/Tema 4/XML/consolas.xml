@@ -1,0 +1,16 @@
+<?xml-stylesheet href="estilo-componentes.css" type="text/css"?>
+
+<componentes>
+    <componente>
+    <nombre>Sony PlayStation 5 slim</nombre>
+    <precio>549$</precio>
+    </componente>
+    <componente>
+    <nombre>PCGaming Ready i5 16GB RAM</nombre>
+    <precio>469$</precio>
+    </componente>
+    <componente>
+    <nombre>Tarjeta Gráfica GeForce RTX 4060</nombre>
+    <precio>319$</precio>
+    </componente>
+</componentes>

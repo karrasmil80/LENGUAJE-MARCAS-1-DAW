@@ -1,0 +1,28 @@
+.uno {
+    border: 1px solid green;
+    width: 90px;
+    background-color: aquamarine ;
+}
+
+.dos {
+    position: absolute;
+    top: 3%;
+    margin: 20px;
+    border: 1px solid green;
+    background-color: aquamarine;
+    z-index: -1;
+}
+
+.cuatro {
+    position: absolute;
+    height: 20px;
+    left:10%;
+    margin: -1px;
+    border: 1px solid green;
+    background-color: aquamarine;
+    z-index: -2;
+}
+
+h1 {
+    z-index: 1;
+}

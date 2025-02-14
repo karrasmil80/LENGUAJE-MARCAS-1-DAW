@@ -1,0 +1,14 @@
+table {
+    border-collapse: separate;
+}
+
+td {
+    border: 1px solid grey;
+    width: 60px;
+    background-color: rgb(35, 180, 238);
+    empty-cells: show;
+    
+}
+#Hide {
+    empty-cells: hide;
+}

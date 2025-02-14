@@ -1,0 +1,12 @@
+<cv>
+    <nombre>Pepe Martinez Conde</nombre>
+    <direccion>Calle Lago Mirando, 18</direccion>
+    <telefono>623712953</telefono>
+    <email>pepe.martinez@ejemplo.com</email>
+    <email>pepe.profesional@correo.com</email>
+    <idiomas>
+    <idioma nivel="alto">Inglés</idioma>
+    <idioma nivel="medio">Español</idioma>
+    <idioma nivel="bajo">Chino</idioma>
+    </idiomas>
+</cv>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<animal estado="sin_peligro">
+    <nombre cientifico="Felis catus">Gato</nombre>
+    <familia>Felidae</familia>
+    <areas_distribucion>
+    <zona>Todo el mundi</zona>
+    </areas_distribucion>
+</animal>

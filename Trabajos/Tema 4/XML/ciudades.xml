@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ciudades>
+    <ciudad>
+    <nombre>Khabarovsk</nombre>
+    </ciudad>
+    <ciudad>
+    <nombre>Ámsterdam</nombre>
+    </ciudad>
+    <ciudad>
+    <nombre>Lusaka</nombre>
+    </ciudad>
+</ciudades>

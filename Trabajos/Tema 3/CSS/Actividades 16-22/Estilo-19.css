@@ -1,0 +1,11 @@
+table {
+
+    border-collapse: collapse;
+    width: 200px;
+    text-align: center;
+    caption-side: bottom;
+
+}
+td {
+    border: 1px solid black;
+}
